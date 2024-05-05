@@ -13,7 +13,7 @@ describe('Random Dog API', () => {
                             .then(response => {
                                 return response;
                             });
-        expect(response.status, 'Status Successful').to.equal(200);
+        expect(response.status, 'Status Successful lurrrrr').to.equal(200);
         expect(response.body.url, 'Url Contains').to.contains('https://random.dog/');
         
     });
