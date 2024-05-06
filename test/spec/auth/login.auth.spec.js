@@ -18,7 +18,7 @@ describe('Login Feature', () => {
 
         // assertion
         expect((await response).status).to.equal(201)
-        expect((await response).body.data.user.name).to.equal('Irfan Sanbercode')
+        expect((await response).body.data.user.name).to.equal('dani')
     })  
 },
     it('Failed Login', async () => {
