@@ -1,10 +1,10 @@
 {
     "loginSuccess": {
-        "email": "irfansanbercode@maildrop.cc",
-        "password": "123456"
+        "email": "dani@gmail.com",
+        "password": "dani123"
     },
     "loginFailed": {
-        "email": "irfansanbercode@maildrop.cc",
-        "password": "12345678"
+        "email": "dani@gmail.com",
+        "password": "dani321"
     }
 }
