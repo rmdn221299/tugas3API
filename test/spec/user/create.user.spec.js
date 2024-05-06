@@ -1,4 +1,5 @@
-const { expect } = require("chai");
+import { expect as _expect } from 'chai';
+const expect = _expect;
 const { getToken } = require("../auth/token.auth.spec.js");
 import request from 'supertest';
 const config = require("../../../data/config.json");

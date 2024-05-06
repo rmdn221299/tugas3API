@@ -1,7 +1,7 @@
 import { expect as _expect } from 'chai';
 const expect = _expect;
 const { getToken } = require("../auth/token.auth.spec.js");
-const request = require("supertest");
+import request from 'supertest';
 const config = require("../../../data/config.json");
 const userParams = require("../../../data/customer/get.customer.data.json");
 const updateUserData = require("../../../data/customer/update.customer.data.json");

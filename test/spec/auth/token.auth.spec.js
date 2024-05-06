@@ -1,3 +1,4 @@
+const request = require("supertest");
 import { expect as _expect } from 'chai';
 import request from 'supertest';
 const config = require("../../../data/config.json");
