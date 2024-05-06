@@ -1,0 +1,10 @@
+{
+    "loginSuccess": {
+        "email": "irfansanbercode@maildrop.cc",
+        "password": "123456"
+    },
+    "loginFailed": {
+        "email": "irfansanbercode@maildrop.cc",
+        "password": "12345678"
+    }
+}

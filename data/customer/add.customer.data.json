@@ -1,0 +1,14 @@
+{
+    "success": {
+        "name": "Irfan Buyer",
+        "phone": "081234567890",
+        "address": "Bandung",
+        "description": "Irfan Buyer 1"
+    },
+    "failed": {
+        "name": null,
+        "phone": null,
+        "address": null,
+        "description": null
+    }
+ }

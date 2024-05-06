@@ -1,0 +1,14 @@
+{
+    "success": {
+        "name": "Irfan Buyer VIP",
+        "phone": "081234567890",
+        "address": "Bandung",
+        "description": "Irfan Buyer 1 VIP"
+    },
+    "failed": {
+        "name": "",
+        "phone": "",
+        "address": "",
+        "description": ""
+    }   
+}
